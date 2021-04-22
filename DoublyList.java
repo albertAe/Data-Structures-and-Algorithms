@@ -1,5 +1,5 @@
 
-public class DoublyList {
+public class FamilyTree {
 	//head of list
 	static Node head; 
 	 
@@ -16,7 +16,7 @@ public class DoublyList {
     
     public static void main(String[] args) 
     { 
-    	DoublyList dll = new DoublyList();
+    	FamilyTree dll = new FamilyTree();
     	dll.append("Albert kow Arhin");
     	
     	dll.push("Albert Kobina Arhin");
